@@ -1,0 +1,9 @@
+.navLeft{
+   align-items: center;
+    display: flex;
+}
+
+.navRight{
+    align-items: center;
+     display: flex;
+ }
