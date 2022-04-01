@@ -1,9 +1,13 @@
+.adminDashMain{
+    justify-content: space-between;
+}
 .navLeft{
    align-items: center;
     display: flex;
 }
 
 .navRight{
-    align-items: center;
-     display: flex;
+    justify-content: space-between;
+    display: flex;
+    width: 8%;
  }
